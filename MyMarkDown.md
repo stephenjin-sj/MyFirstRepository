@@ -23,6 +23,4 @@ First Header    |    Second Header
 
 ~~this~~
 
-:laughing:
-
-:sweat:
+:laughing:&nbsp;:sweat:
