@@ -5,10 +5,10 @@ You can even [link to google!](http://google.com)
 ###This is header3###
 ####This is header4####
 #####This is header5#####
-'''javascript
+```javascript
 function fancyAlert(arg) {
   if(arg) {
     $.facebox({div:'#foo'})
   }
 }
-'''
+```
