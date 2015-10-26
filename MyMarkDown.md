@@ -12,6 +12,12 @@ function fancyAlert(arg) {
   }
 }
 ```
+```java
+public static void main(String[] args) {
+    
+}
+```
+
 First Header    |    Second Header
 ----------------|-----------------
   Content 1     |      Content 2
