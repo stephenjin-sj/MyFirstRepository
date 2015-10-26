@@ -20,3 +20,5 @@ First Header    |    Second Header
 @stephen.jin
 [点开有惊喜](https://github.com/stephenjin-sj/stephen.github.io.git)
 ~~this~~
+:laughing
+:sweat
